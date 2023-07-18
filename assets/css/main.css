@@ -2667,3 +2667,7 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
+.highlight-word {
+  color: #008374;
+}
